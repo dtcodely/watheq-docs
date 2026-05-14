@@ -86,11 +86,11 @@ extra:
   
   alternate:
     - name: العربية
-      link: /
+      link: ./
       lang: ar
 
     - name: English
-      link: /en/
+      link: en/
       lang: en
 
   social:
