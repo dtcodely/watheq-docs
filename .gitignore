@@ -1,0 +1,10 @@
+# Python
+venv/
+__pycache__/
+
+# MkDocs
+site/
+
+# OS
+.DS_Store
+Thumbs.db
