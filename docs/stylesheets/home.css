@@ -1,0 +1,87 @@
+/* Target the entire main content area natively */
+.md-main {
+  position: relative;
+}
+
+.md-main::before {
+  content: '';
+  position: absolute;
+  top: 0; bottom: 0; left: 0; right: 0;
+  background-image: url('../assets/dots-background.png'); 
+  background-size: 300px;
+  background-position: center;
+  background-repeat: repeat;
+  opacity: 0.5; 
+  pointer-events: none;
+  z-index: 0;
+}
+
+
+
+/* Base custom hero style */
+.custom-hero-wrapper {
+  position: relative;
+  /* Reduced top padding to fix the large empty space */
+  padding: 1rem 0 2rem 0;
+  display: flex;
+  align-items: center;
+}
+
+.custom-hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  position: relative;
+  z-index: 2;
+  gap: 2rem;
+}
+
+.custom-hero-content {
+  flex: 1;
+}
+
+.custom-hero-content h1 {
+  color: var(--md-primary-fg-color) !important;
+  font-size: 2.2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+.custom-hero-content p {
+  color: var(--md-default-fg-color);
+  font-size: 1.1rem;
+  line-height: 1.8;
+  opacity: 0.9;
+  margin-bottom: 2rem;
+}
+
+.custom-hero-buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+.custom-hero-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.custom-hero-image img {
+  max-width: 100%;
+  height: auto;
+  opacity: 0.95;
+}
+
+@media screen and (max-width: 900px) {
+  .custom-hero {
+    flex-direction: column;
+  }
+  .custom-hero-content {
+    text-align: center;
+  }
+  .custom-hero-buttons {
+    justify-content: center;
+  }
+}

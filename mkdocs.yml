@@ -1,0 +1,238 @@
+# ===============================
+# ===============================
+# Project Information
+# ===============================
+site_name: نظام واثق  
+site_url: https://www.dtcode.ly
+#site_url: https://dteam-libya.github.io
+site_description: نظام واثق - نظام إدارة الوثائق القانونية
+site_author: dtcodely
+
+# Repository
+repo_url: https://github.com/dtcodely/Watheq
+repo_name: dtcodely/Watheq
+
+# Copyright
+copyright: جميع الحقوق محفوظة &copy; 2026 dtcode.ly
+
+
+# ===============================
+# Theme Configuration
+# ===============================
+theme:
+  name: material
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
+
+  font:
+    text: Cairo
+    code: Roboto Mono
+
+  language: ar
+  direction: rtl
+
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.indexes
+    # - navigation.expand
+    # - navigation.instant
+    # - navigation.tracking
+    # - navigation.progress
+    # - navigation.previous
+    # - navigation.tabs.sticky
+    # - navigation.path
+    - toc.follow
+    # - toc.integrate
+    # - toc.highlight
+    - search.suggest
+    - search.highlight
+    - footer.social
+    # - header.autohide
+    - content.code.copy
+    # - content.code.annotate
+    # - content.tabs.link
+
+  icon:
+    repo: fontawesome/brands/git-alt
+    annotation: material/chevron-right-circle
+
+  palette:
+  # Palette toggle for dark mode
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: تبديل للوضع الداكن (Dark Mode)
+
+  # Palette toggle for light mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: تبديل للوضع الساطع (Light Mode)
+
+# ===============================
+# Extra Configuration
+# ===============================
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  generator: false
+  
+  alternate:
+    - name: العربية
+      link: /
+      lang: ar
+
+    - name: English
+      link: /en/
+      lang: en
+
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@dtcodely
+      name: YouTube
+
+    - icon: fontawesome/brands/github
+      link: https://github.com/dtcodely
+      name: GitHub
+
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/dtcodely
+      name: Telegram
+
+# ===============================
+# Markdown Extensions
+# ===============================
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  # - pymdownx.snippets
+  # - pymdownx.critic
+  # - pymdownx.caret
+  # - pymdownx.keys
+  # - pymdownx.tilde
+  # - admonition
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          # format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      # line_spans: __span
+      # pygments_lang_class: true
+  - pymdownx.inlinehilite
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:material.extensions.emoji.twemoji
+  #     emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# ===============================
+# Plugins
+# ===============================
+plugins:
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+
+      languages:
+        - locale: ar
+          default: true
+          name: العربية
+          build: true
+
+        - locale: en
+          name: English
+          build: true
+          site_name: Watheq System
+          copyright: copyright &copy; 2026 dtcode.ly
+
+          theme:
+            language: en
+            direction: ltr
+
+          nav_translations:
+            الرئيسية: Home
+            الإعداد والمتطلبات: Setup & Requirements
+            متطلبات النظام: System Requirements
+            طريقة التشغيل: Running Instructions
+            التوثيق التقني: Technical Documentation
+            معمارية النظام: System Architecture
+            مخطط قاعدة البيانات: Database Schema
+            مخطط ERD التفصيلي: Detailed ERD
+            المخططات التشغيلية: Operational Flowcharts
+            مخططات التسلسل: Sequence Diagrams
+            مرجع الواجهة البرمجية: API Reference
+            دليل التثبيت والنشر: Deployment Guide
+            نظام البحث المتقدم: Advanced Search System
+            مزايا النظام: System Features
+            المزايا الأساسية: Core Features
+            تفاصيل المزايا: Detailed Features
+
+  - search
+
+
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
+      locale: ar
+      type: date
+
+
+# ===============================
+# Navigation
+# ===============================
+nav:
+  - الرئيسية: index.md
+
+  - الإعداد والمتطلبات:
+    - متطلبات النظام: setup/requirements.md
+    - طريقة التشغيل: setup/running.md
+
+  - التوثيق التقني:
+    - معمارية النظام: technical/architecture.md
+    - مخطط قاعدة البيانات: technical/database.md
+    - مخطط ERD التفصيلي: technical/erd.md
+    - المخططات التشغيلية: technical/flowchart.md
+    - مخططات التسلسل: technical/sequences.md
+    - مرجع الواجهة البرمجية: technical/api.md
+    - دليل التثبيت والنشر: technical/deployment.md
+    - نظام البحث المتقدم: technical/search.md
+
+  - مزايا النظام:
+    - المزايا الأساسية: features/features.md
+    - تفاصيل المزايا: features/features-detailed.md
+
+
+  # - Introduction: introduction/index.md
+  #     - Tutorial:
+  #     - Tutorial 01: tutorial/introduction.md
+  #     - Tutorial 02: tutorial/tutorial02.md
+  #     - Diagrams: tutorial/diagram-examples.md
+  #     - Mkdocs: tutorial/mkdocs.md
+  #     - Structure: tutorial/file structure.md
+  # - About:
+  #     - License: about/license.md
+  #     - Release Notes: about/release-notes.md
+  #     - Security: about/Security.md
+  # - Contact: contact.md
+  
+  # file
+# not_in_nav: |
+#   /private.md
+
+# floder
+# not_in_nav: |
+#   /technical/
