@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/features/features-detailed/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/features/features-detailed/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/features/features-detailed/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/features/features/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/features/features/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/features/features/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/setup/requirements/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/setup/requirements/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/setup/requirements/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/setup/running/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/setup/running/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/setup/running/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/technical/api/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/api/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/technical/architecture/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/architecture/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/technical/database/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/database/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/database/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/technical/deployment/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/deployment/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/technical/erd/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/erd/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/erd/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/technical/flowchart/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/flowchart/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/flowchart/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/technical/search/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/search/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/search/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/technical/sequences/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/sequences/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/sequences/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/en/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/en/features/features-detailed/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/features/features-detailed/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/features/features-detailed/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/en/features/features/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/features/features/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/features/features/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/en/setup/requirements/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/setup/requirements/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/setup/requirements/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/en/setup/running/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/setup/running/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/setup/running/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/en/technical/api/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/api/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/api/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/en/technical/architecture/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/architecture/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/en/technical/database/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/database/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/database/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/en/technical/deployment/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/deployment/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/en/technical/erd/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/erd/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/erd/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/en/technical/flowchart/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/flowchart/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/flowchart/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/en/technical/search/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/search/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/search/"/>
+    </url>
+    <url>
+        <loc>https://dtcodely.github.io/watheq-docs/en/technical/sequences/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dtcodely.github.io/watheq-docs/en/technical/sequences/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://dtcodely.github.io/watheq-docs/technical/sequences/"/>
+    </url>
+</urlset>
